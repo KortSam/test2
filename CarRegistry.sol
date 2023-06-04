@@ -19,3 +19,4 @@ struct Car {
 
     mapping(string => Car) cars;
     string[] all_licenceplates;
+    }
